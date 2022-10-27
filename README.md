@@ -22,6 +22,6 @@ lambda expression is the implementation of functional interface, so the result o
 
 method reference is the alternative of lambda expression. it is used to map exisiting method implementation to abstract method of functional interface
 
-To reuse existing implementation use method reference but for new code use lambda expression
+To utilize existing implementation use method reference but for new code use lambda expression
 
 Consumer can have parameters, but provider can not have parameters, just provides output
